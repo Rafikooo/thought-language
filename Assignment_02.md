@@ -74,9 +74,7 @@ There are also cases in which it is difficult to look for equivalents in other l
 double negative, characteristic of Slavic languages. For instance, a phrase “Ja nic nie wiem” translated word by word
 means “I nothing no know”, or slightly reorganising it “I know not nothing”, which does no make much sense in English,
 but for me, as Polish speaker such a construction was perfectly normal until I started to noticing these language design
-differences. However, for a French-speaking person, such wording makes no sense. In turn, the example structure of
-Verlan slang would be impossible to implement in Polish due to the sound system. The French language, even if the words
-are reversed, remains fluent, while the Polish language would become impossible to pronounce.
+differences.
 
 ### Conclusion
 
