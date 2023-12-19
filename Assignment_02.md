@@ -66,18 +66,18 @@ said as “I’m keeping my thumbs”. He did not understand what I meant and af
 French counterpart of the idiom is the same as the English one, but it differs from the Polish one, so he didn't
 understand me. However, when discussing this later with our German friend we found out that in German they say “squeeze
 thumbs”, which is similar to the Polish language. In the same situation I described, if I would say this incorrect
-English phrase, not to French, but to German person I would be understood. The second example is about the word meaning
-in different languages. It turns out that some terms are expressed more precisely, or have explicit link with their root
-world. For example, the term “diabetes” has its genesis in greek, but there is no explicit relation to disease it
-describes, on the other hand in Polish “diabetes” word is called “cukrzyca”, which inherits from the word “cukier” what
-means sugar and it precisely reflects the meaning. There are also cases in which it is difficult to look for equivalents
-in other languages. An example is the use of a double negative, characteristic of Slavic languages. For instance, a
-phrase “Ja nic nie wiem” translated word by word means “I nothing no know”, or slightly reorganising it “I know not
-nothing”, which does no make much sense in English, but for me, as Polish speaker such a construction was perfectly
-normal until I started to noticing these language design differences. The last example is about time describing.
-Recently, I discovered by learning Spanish and Catalan that people that speak these languages describe the current time
-except the first hour as plural, which sounds really weird for me. In Polish, single, specific moment in time is always
-singular, which in my opinion in this specific case makes more sense in Polish.
+English phrase, not to French, but to German person I would be understood. The second example explores the meaning of
+word in different languages. Some terms are expressed more precisely, or have explicit link with their root world. For
+example, the term “diabetes” has its origin in Greek, but there is no explicit relation to disease it describes. On the
+other hand in Polish, the word “diabetes” is called “cukrzyca”, which derived from the word “cukier” what means sugar
+and it precisely reflects the meaning. There are also cases in which it is challenging to find equivalents in other
+languages. An example is the use of a double negative, characteristic of Slavic languages. For instance, a phrase “Ja
+nic nie wiem” translated word by word means “I nothing no know”, or slightly reorganising it “I know not nothing”, which
+does not make much sense in English, but for me, as a Polish speaker such a construction was perfectly normal until I
+started noticing these language design differences. The last example is about time describing. I recently found that in
+Spanish and Catalan, people describe the current time as plural, except for the first hour, which seems very strange to
+me. In Polish, a single, specific moment in time is always singular, which in my opinion makes more sense in this
+specific case.
 
 ### Conclusion
 
