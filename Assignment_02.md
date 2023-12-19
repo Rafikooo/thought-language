@@ -74,7 +74,10 @@ There are also cases in which it is difficult to look for equivalents in other l
 double negative, characteristic of Slavic languages. For instance, a phrase “Ja nic nie wiem” translated word by word
 means “I nothing no know”, or slightly reorganising it “I know not nothing”, which does no make much sense in English,
 but for me, as Polish speaker such a construction was perfectly normal until I started to noticing these language design
-differences.
+differences. The last example is about time describing. Recently, I discovered by learning Spanish and Catalan that
+people that speak these languages describe the current time except the first hour as plural, which sounds really weird
+for me. In Polish, single, specific moment in time is always singular, which in my opinion in this specific case makes
+more sense in Polish.
 
 ### Conclusion
 
