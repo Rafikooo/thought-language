@@ -95,8 +95,6 @@ Française*
 
 [https://makingsjournal.com/negotiating-alternative-linguistic-practices-the-struggle-between-verlan-usage-and-the-academie-francaise/](https://makingsjournal.com/negotiating-alternative-linguistic-practices-the-struggle-between-verlan-usage-and-the-academie-francaise/)
 
-**Figure 1**
-
-*Knowledge transfer*
-
+**Figures:**
 ![knowledge_transfer.png](What%20have%20I%20learned%20about%20language,%20thoughts,%20and%20%20acb743ba2c6e4f0287c7255bb9d36722/knowledge_transfer.png)
+**Figure 1.** Knowledge transfer [Author’s own]
