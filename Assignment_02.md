@@ -66,15 +66,16 @@ didn’t know what I meant and after a while, I realised what happened. French c
 as English one and differs from Polish therefore he can’t understand me. However, when we were talking about this later
 with our German friend we found out that in German they say “squeeze thumbs”, which is close to Polish language and in
 the same situation I described, if I would say this incorrect English phrase not to French, but for German person I
-would be understood. It turns out that some concepts are expressed more precisely in one language and others in the
-other. Another interesting phenomenon I have observed is the use of first language expressions translated literally into
-English. Loan translations may be incomprehensible to native English speakers, but for those who speak French or German
-and have an equivalent expression, understanding is not an issue. There are also cases in which it is difficult to look
-for equivalents in other languages. An example is the use of a double negative, characteristic of Slavic languages. For
-me, as a person for whom Polish is my first language, such a construction is natural and does not mean a double negation
-of thoughts. However, for a French-speaking person, such wording makes no sense. In turn, the example structure of
-Verlan slang would be impossible to implement in Polish due to the sound system. The French language, even if the words
-are reversed, remains fluent, while the Polish language would become impossible to pronounce.
+would be understood. The second example is about the word meaning in different languages. It turns out that some terms
+are expressed more precisely, or have explicit link with their root world. For example, the term “diabetes” has its
+genesis in greek, but there is no explicit relation to disease it describes, on the other hand in Polish “diabetes” word
+is called “cukrzyca”, which inherits from the word “cukier” what means sugar and it precisely reflects the meaning.
+There are also cases in which it is difficult to look for equivalents in other languages. An example is the use of a
+double negative, characteristic of Slavic languages. For me, as a person for whom Polish is my first language, such a
+construction is natural and does not mean a double negation of thoughts. However, for a French-speaking person, such
+wording makes no sense. In turn, the example structure of Verlan slang would be impossible to implement in Polish due to
+the sound system. The French language, even if the words are reversed, remains fluent, while the Polish language would
+become impossible to pronounce.
 
 ### Conclusion
 
