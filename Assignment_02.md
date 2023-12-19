@@ -60,24 +60,24 @@ position of the Académie Française shows how language can also be subject to d
 
 The topic of the influence of language on the way of thinking is most interesting to me because of cases from everyday
 life. For example, during conversations with my foreign-speaking friends, we compare English idioms and phrases and look
-for equivalents of certain English constructions in our native languages. One time, I wished my French friend luck using
-by mistake direct translation of Polish idiom that represents “fingers crossed”, which in Polish could be said as “I’m
-keeping my thumbs”. He didn’t know what I meant and after a while, I realised what happened. French counterpart of
-mentioned idiom is the same as English one and differs from Polish therefore he didn’t understand me. However, when we
-were talking about this later with our German friend we found out that in German they say “squeeze thumbs”, which is
-close to Polish language and in the same situation I described, if I would say this incorrect English phrase, not to
-French, but to German person I would be understood. The second example is about the word meaning in different languages.
-It turns out that some terms are expressed more precisely, or have explicit link with their root world. For example, the
-term “diabetes” has its genesis in greek, but there is no explicit relation to disease it describes, on the other hand
-in Polish “diabetes” word is called “cukrzyca”, which inherits from the word “cukier” what means sugar and it precisely
-reflects the meaning. There are also cases in which it is difficult to look for equivalents in other languages. An
-example is the use of a double negative, characteristic of Slavic languages. For instance, a phrase “Ja nic nie wiem”
-translated word by word means “I nothing no know”, or slightly reorganising it “I know not nothing”, which does no make
-much sense in English, but for me, as Polish speaker such a construction was perfectly normal until I started to
-noticing these language design differences. The last example is about time describing. Recently, I discovered by
-learning Spanish and Catalan that people that speak these languages describe the current time except the first hour as
-plural, which sounds really weird for me. In Polish, single, specific moment in time is always singular, which in my
-opinion in this specific case makes more sense in Polish.
+for equivalents of certain English constructions in our native languages. One time, I unintentionally wished my French
+friend good luck using direct translation of Polish idiom that represents “fingers crossed”, which in Polish could be
+said as “I’m keeping my thumbs”. He did not understand what I meant and after a while, I realised what happened. The
+French counterpart of the idiom is the same as the English one, but it differs from the Polish one, so he didn't
+understand me. However, when discussing this later with our German friend we found out that in German they say “squeeze
+thumbs”, which is similar to the Polish language. In the same situation I described, if I would say this incorrect
+English phrase, not to French, but to German person I would be understood. The second example is about the word meaning
+in different languages. It turns out that some terms are expressed more precisely, or have explicit link with their root
+world. For example, the term “diabetes” has its genesis in greek, but there is no explicit relation to disease it
+describes, on the other hand in Polish “diabetes” word is called “cukrzyca”, which inherits from the word “cukier” what
+means sugar and it precisely reflects the meaning. There are also cases in which it is difficult to look for equivalents
+in other languages. An example is the use of a double negative, characteristic of Slavic languages. For instance, a
+phrase “Ja nic nie wiem” translated word by word means “I nothing no know”, or slightly reorganising it “I know not
+nothing”, which does no make much sense in English, but for me, as Polish speaker such a construction was perfectly
+normal until I started to noticing these language design differences. The last example is about time describing.
+Recently, I discovered by learning Spanish and Catalan that people that speak these languages describe the current time
+except the first hour as plural, which sounds really weird for me. In Polish, single, specific moment in time is always
+singular, which in my opinion in this specific case makes more sense in Polish.
 
 ### Conclusion
 
