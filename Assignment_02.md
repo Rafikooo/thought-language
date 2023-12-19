@@ -19,9 +19,9 @@ ideas and concepts are easier to express in one language than in another, which 
 ability to shape the way we think.
 
 Of all the topics covered in the course, I found the idea of the relationship between language and thinking the most
-fascinating, especially in the context of the debate between the theories of the liguists Steven Pinker and Lera
-Boroditsky. In short, Pinker presents language as a tool for transmitting pre-formed thoughts, separate from language,
-while Boroditsky emphasizes that language actively shapes the way we perceive and interpret the world. The clash of
+fascinating, especially in the context of the debate between the theories of liguists Steven Pinker and Lera Boroditsky.
+In short, Pinker presents language as a tool for transmitting pre-formed thoughts, separate from language, while
+Boroditsky emphasizes that language actively shapes the way we perceive and interpret the world. The clash of
 perspectives and examples has made me more aware of the non-obvious relationships between language and thought, as well
 as cases where language is omitted in creating a thought.
 
