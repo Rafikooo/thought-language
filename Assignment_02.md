@@ -59,17 +59,22 @@ perspective may increase our chances of survival by working with people who iden
 position of the Académie Française shows how language can also be subject to domination towards groups of people.
 
 The topic of the influence of language on the way of thinking is most interesting to me because of cases from everyday
-life. For example, during conversations with my foreign-speaking friends, we compare English phrases and look for
-equivalents of certain English constructions in our native languages. It turns out that some concepts are expressed more
-precisely in one language and others in the other. Another interesting phenomenon I have observed is the use of first
-language expressions translated literally into English. Loan translations may be incomprehensible to native English
-speakers, but for those who speak French or German and have an equivalent expression, understanding is not an issue.
-There are also cases in which it is difficult to look for equivalents in other languages. An example is the use of a
-double negative, characteristic of Slavic languages. For me, as a person for whom Polish is my first language, such a
-construction is natural and does not mean a double negation of thoughts. However, for a French-speaking person, such
-wording makes no sense. In turn, the example structure of Verlan slang would be impossible to implement in Polish due to
-the sound system. The French language, even if the words are reversed, remains fluent, while the Polish language would
-become impossible to pronounce.
+life. For example, during conversations with my foreign-speaking friends, we compare English idioms and phrases and look
+for equivalents of certain English constructions in our native languages. On time, by mistake I wished my French friend
+luck using direct translation of idiom “fingers crossed” in Polish, which could be said as “I’m keeping my thumbs”. He
+didn’t know what I meant and after a while, I realised what happened. French counterpart of mentioned idiom is the same
+as English one and differs from Polish therefore he can’t understand me. However, when we were talking about this later
+with our German friend we found out that in German they say “squeeze thumbs”, which is close to Polish language and in
+the same situation I described, if I would say this incorrect English phrase not to French, but for German person I
+would be understood. It turns out that some concepts are expressed more precisely in one language and others in the
+other. Another interesting phenomenon I have observed is the use of first language expressions translated literally into
+English. Loan translations may be incomprehensible to native English speakers, but for those who speak French or German
+and have an equivalent expression, understanding is not an issue. There are also cases in which it is difficult to look
+for equivalents in other languages. An example is the use of a double negative, characteristic of Slavic languages. For
+me, as a person for whom Polish is my first language, such a construction is natural and does not mean a double negation
+of thoughts. However, for a French-speaking person, such wording makes no sense. In turn, the example structure of
+Verlan slang would be impossible to implement in Polish due to the sound system. The French language, even if the words
+are reversed, remains fluent, while the Polish language would become impossible to pronounce.
 
 ### Conclusion
 
