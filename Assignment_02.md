@@ -60,12 +60,12 @@ position of the Académie Française shows how language can also be subject to d
 
 The topic of the influence of language on the way of thinking is most interesting to me because of cases from everyday
 life. For example, during conversations with my foreign-speaking friends, we compare English idioms and phrases and look
-for equivalents of certain English constructions in our native languages. On time, by mistake I wished my French friend
+for equivalents of certain English constructions in our native languages. One time, by mistake I wished my French friend
 luck using direct translation of idiom “fingers crossed” in Polish, which could be said as “I’m keeping my thumbs”. He
 didn’t know what I meant and after a while, I realised what happened. French counterpart of mentioned idiom is the same
-as English one and differs from Polish therefore he can’t understand me. However, when we were talking about this later
+as English one and differs from Polish therefore he didn’t understand me. However, when we were talking about this later
 with our German friend we found out that in German they say “squeeze thumbs”, which is close to Polish language and in
-the same situation I described, if I would say this incorrect English phrase not to French, but for German person I
+the same situation I described, if I would say this incorrect English phrase, not to French, but to German person I
 would be understood. The second example is about the word meaning in different languages. It turns out that some terms
 are expressed more precisely, or have explicit link with their root world. For example, the term “diabetes” has its
 genesis in greek, but there is no explicit relation to disease it describes, on the other hand in Polish “diabetes” word
