@@ -1,4 +1,4 @@
-# What have I learned about language, thought, and the relationships between them?
+# What have I learned about language, thought, and the relationships between them? What do I not know yet?
 
 ### Rafał Jaskulski
 
@@ -6,14 +6,14 @@
 
 At the beginning of the "Language and Thought" course, I was faced with three questions that made me think about my
 current perception of language, the process of language acquisition and the impact it has on our thinking. The first
-question: "What knowledge do we have about our first (native) language? What do we know when we say we know a language?"
-seemed by this time for me to be not that difficult to answer. My answer was based on the belief that mutual
-comprehension is enough, which later turned out to be incomplete. The answer for the second question: "How do children
-learn their first language between the ages 0 and 1" was also intuitive for me. I believed that children learn language
+question, "What knowledge do we have about our first (native) language? What do we know when we say we know a language?"
+seemed by this time for me to be not that difficult to determine. My answer was based on the belief that mutual
+comprehension is enough, which later turned out to be incomplete. The answer to the second question, "How do children
+learn their first language between the ages 0 and 1?" was also intuitive for me. I believed that children learn language
 by listening to the speech of their parents and those around them. This perspective also turned out to be just the tip
-of the iceberg compared to the topics we developed. For the last question: “Do you think that our language affects how
+of the iceberg compared to the topics we developed. For the last question, “Do you think that our language affects how
 we think? Can you give an example of the connection between language and thought?” from the perspective of time I think
-I answered accurately. I pointed out the differences between linguistic constructions, including: English and Polish,
+I answered accurately. I pointed out the differences between linguistic constructions, including English and Polish,
 which may affect the way we formulate and understand our thoughts. This belief was based on the observation that some
 ideas and concepts are easier to express in one language than in another, which I think suggests that language has the
 ability to shape the way we think.
