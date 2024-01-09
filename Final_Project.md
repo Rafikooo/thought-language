@@ -23,7 +23,9 @@ separate from language, while Boroditsky emphasizes that language actively shape
 world. The clash of perspectives and examples has made me more aware of the non-obvious relationships between language
 and thought, as well as cases where language is omitted in creating a thought. The second idea that took my interest is
 why language is that important for every human being, what’s the way languages are learned and especially the
-consequences for human if they deprived of this opportunity.
+consequences for human if they deprived of this opportunity. During the classes we have spoken about language
+acquisition and what ability children have on a certain period of life, but I would need to delve deeper into topic if
+and if so in which way abilities of adult for acquire new knowledge and skills are narrowed
 
 The topic of the influence of language on the way of thinking is most interesting to me because of cases from everyday
 life. For example, during conversations with my foreign-speaking friends, we compare English idioms and phrases and look
