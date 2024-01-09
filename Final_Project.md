@@ -25,7 +25,7 @@ and thought, as well as cases where language is omitted in creating a thought. T
 why language is that important for every human being, what’s the way languages are learned and especially the
 consequences for human if they deprived of this opportunity. During the classes we have spoken about language
 acquisition and what ability children have on a certain period of life, but I would need to delve deeper into topic if
-and if so in which way abilities of adult for acquire new knowledge and skills are narrowed
+and if so in which way abilities of adult for acquire new knowledge and skills are narrowed.
 
 The topic of the influence of language on the way of thinking is most interesting to me because of cases from everyday
 life. For example, during conversations with my foreign-speaking friends, we compare English idioms and phrases and look
@@ -46,7 +46,10 @@ does not make much sense in English, but for me, as a Polish speaker such a cons
 started noticing these language design differences. The last example is about describing time. I recently found that in
 Spanish and Catalan, people describe the current time as plural, except for the first hour, which seems very strange to
 me. In Polish, a single, specific moment in time is always singular, which in my opinion makes more sense in this
-specific case.
+specific case. Another example that showed the influence of language on the formulation of thoughts is a study of
+a way people with different first language categorise colors. The experiment of Boroditsky (2007) showed that Russian
+speakers could discriminate between different shades of blue faster than English speakers, because the Russian language
+has distinct terms for lighter blues ("goluboy") and darker blues ("siniy"), helping in quicker color categorization.
 
 During class, we covered three main topics: languages and dialects, children's acquisition of their first language, and
 the influence of language on formulating thoughts. The main idea that comes to mind when we combine these three topics
@@ -82,6 +85,11 @@ A better grasp of why we use language and how it relates to our thoughts is cert
 especially in my work as a programmer where clarity is essential in speech, writing, and code production. A fascinating
 area for further investigation is the discrepancies that result from thinking in the first language compared to a later
 acquired languages.
+
+Winawer, Witthoft, Frank, Wu, Wade, Boroditsky, (2007). *Russian blues reveal effects of language on color
+discrimination*
+
+[https://pubmed.ncbi.nlm.nih.gov/17470790/](https://pubmed.ncbi.nlm.nih.gov/17470790/)
 
 Allcott, Gentzkow, (2017). *Social Media and Fake News in the 2016 Election*
 
