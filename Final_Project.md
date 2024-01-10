@@ -83,7 +83,8 @@ towards groups of people. Another example illustrates the consequences of depriv
 acquisition. In the book How Languages are Learned, Lightbown, Spada (2006) researchers showed an example of child that
 was about 12 years old when found, and probably he had got no contact with aby human before. Even though several years
 were devoted to teaching him the language, the child was no longer able to develop the cognitive skills to the extent
-that toddlers do. A similar case, but  happend to Grzegorz Płonka, a child that since birth was wrongly diagnosed with autism
+that toddlers do. A similar case, but happend to Grzegorz Płonka, a child that since birth was wrongly diagnosed with
+autism
 and in his fourteenth it turned out that he has hearing loss. After that he got an implant that bring him the hear back,
 he started to develop his hearing skills. It turns out that he is musically talented and after a few years of hard work
 he played a piece Sonata. This example shows how huge influence has contact with a first language from the moment of
@@ -91,9 +92,11 @@ being a fetus. The history of Płonka was so extraordinary that a movie adapting
 made.
 
 A better grasp of why we use language and how it relates to our thoughts is certainly beneficial in daily life,
-especially in my work as a programmer where clarity is essential in speech, writing, and code production. A fascinating
-area for further investigation is the discrepancies that result from thinking in the first language compared to a later
-acquired languages.
+especially in my work as a programmer where clarity is essential in speech, writing, and code production. Apart of
+programming it may help with soft skills as well, as having knowlegdge on how people think can improve my understanding
+to others and thanks to that work together more efficiently or avoid certain misunderstanding. A fascinating area for
+further investigation is the discrepancies that result from thinking in the first language compared to a later acquired
+languages.
 
 Winawer, Witthoft, Frank, Wu, Wade, Boroditsky, (2007). *Russian blues reveal effects of language on color
 discrimination*
