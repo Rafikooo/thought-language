@@ -66,7 +66,7 @@ shaping the world around us. This iterative approach, where existing knowledge i
 depicted in *Figure 1*, symbolizing the transfer of knowledge across generations. However, every stick has two ends and
 these mechanisms sometimes prove unreliable.
 
-Topics discussed in the context of the book *The Knowledge Illusion* by Sloman and Fernbach (2017) revealed the tendency
+Topics discussed in the context of the book The Knowledge Illusion by Sloman and Fernbach (2017) revealed the tendency
 of people to overestimate their knowledge and cognitive skills. Researchers have shown plenty of examples that show gaps
 in people's analysis of information. One of the key experiments involved explaining the functioning of a toilet to
 participants, with the results indicating that people tend to overestimate their knowledge even in basic matters.
@@ -85,15 +85,15 @@ case relates to two parts of the main idea. First, Verlan slang provides a sense
 which from an evolutionary perspective may increase our chances of survival by working with people who identify with
 them. On the other hand, the position of the Académie Française shows how language can also be subject to domination
 towards groups of people. Another example illustrates the consequences of depriving a human being from first language
-acquisition. In the book How Languages are Learned, Lightbown, Spada (2006) researchers showed an example of child that
-was about 12 years old when found, and probably he had got no contact with aby human before. Even though several years
-were devoted to teaching him the language, the child was no longer able to develop the cognitive skills to the extent
-that toddlers do. A similar case, but happend to Grzegorz Płonka, a child that since birth was wrongly diagnosed with
-autism and in his fourteenth it turned out that he has hearing loss. After that he got an implant that bring him the
-hear back, he started to develop his hearing skills. It turns out that he is musically talented and after a few years of
-hard work he played a piece Sonata. This example shows how huge influence has contact with a first language from the
-moment of being a fetus. The history of Płonka was so extraordinary that a movie adapting his biography called Sonata
-(2021) was made.
+acquisition. In the book How Languages are Learned, Lightbown, Spada (2006) researchers presented an example of a child
+who was about 12 years old when found, and had likely never had contact with any humans before. Despite years of effort
+to teaching him the first language, the child was unable to develop the cognitive skills to the extent that toddlers do.
+A similar case occured with Grzegorz Płonka, a child that was misdiagnosed with autism from birth, but at his fourteen
+it was discovered that he had hearing loss. After that he got an implant restore his hearing, he began to develop his
+auditory skills and discovered his musical talented, eventually playing a piece Sonata after years of hard word. This
+example highlights the profound impact with early exposure to a first language from the fetus stage and challenges of
+skipping this crucial period in language acquisition. Grzegorz Płonka’s extraordinary story was adapted into a movie
+called Sonata (2021).
 
 A better grasp of why we use language and how it relates to our thoughts is certainly beneficial in daily life,
 especially in my work as a programmer where clarity is essential in speech, writing, and code production. Apart of
