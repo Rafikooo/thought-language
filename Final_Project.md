@@ -16,16 +16,16 @@ we think? Can you give an example of the connection between language and thought
 I answered accurately. I pointed out the differences between linguistic constructions, including English and Polish,
 which may affect the way we formulate and understand our thoughts. This belief was based on the observation that some
 ideas and concepts are easier to express in one language than in another, which I think suggests that language has the
-ability to shape the way we think. Of all the topics covered in the course, I found the idea of the relationship between
-language and thinking the most fascinating, especially in the context of the debate between the theories of liguists
-Steven Pinker and Lera Boroditsky. In short, Pinker presents language as a tool for transmitting pre-formed thoughts,
-separate from language, while Boroditsky emphasizes that language actively shapes the way we perceive and interpret the
-world. The clash of perspectives and examples has made me more aware of the non-obvious relationships between language
-and thought, as well as cases where language is omitted in creating a thought. The second idea that caught my interest
-is importance of language for every human being, the process of language acquisition and especially the consequences for
-individuals if they are deprived of this opportunity. In class, we discussed how children acquire language and its
-abilities during a certain period of life. However, I would need to delve deeper into how adults’ abilities for
-acquiring new knowledge and skills may be limited.
+ability to shape the way we think. Out of all the topics covered in the course, I found the concept of the connection
+between language and thought to be the most interesting, especially in the context of the debate between the theories of
+liguists Steven Pinker and Lera Boroditsky. In short, Pinker presents language as a tool for transmitting pre-formed
+thoughts, separate from language, while Boroditsky emphasizes that language actively shapes the way we perceive and
+interpret the world. The clash of perspectives and examples has made me more aware of the non-obvious relationships
+between language and thought, as well as cases where language is omitted in creating a thought. The second idea that
+caught my interest is importance of language for every human being, the process of language acquisition and especially
+the consequences for individuals if they are deprived of this opportunity. In class, we discussed how children acquire
+language and its abilities during a certain period of life. However, I would need to delve deeper into how adults’
+abilities for acquiring new knowledge and skills may be limited.
 
 There are approximately 7000 different languages and a rich diversity of human being. As a species, we have been able to
 develop civilization and, except for certain aspects as, for instance, cultural one, our reality in different parts of
@@ -89,16 +89,16 @@ acquisition. In the book How Languages are Learned, Lightbown, Spada (2006) rese
 who was about 12 years old when found, and had likely never had contact with any humans before. Despite years of effort
 to teaching him the first language, the child was unable to develop the cognitive skills to the extent that toddlers do.
 A similar case occured with Grzegorz Płonka, a child that was misdiagnosed with autism from birth, but at his fourteen
-it was discovered that he had hearing loss. After that he got an implant restore his hearing, he began to develop his
-auditory skills and discovered his musical talented, eventually playing a piece Sonata after years of hard word. This
+it was discovered that he had hearing loss. After receiving an implant to restore his hearing, he began to develop his
+auditory skills and discovered his musical talent, eventually playing a piece Sonata after years of hard word. This
 example highlights the profound impact with early exposure to a first language from the fetus stage and challenges of
 skipping this crucial period in language acquisition. Grzegorz Płonka’s extraordinary story was adapted into a movie
 called Sonata (2021).
 
 A better grasp of why we use language and how it relates to our thoughts is certainly beneficial in daily life,
-especially in my work as a programmer where clarity is essential in speech, writing, and code production. Apart of
-programming it may help with soft skills as well, as having knowlegdge on how people think can improve my understanding
-to others and thanks to that work together more efficiently or avoid certain misunderstanding. A fascinating area for
+especially in my work as a programmer where clarity is essential in speech, writing, and code production. In addition to
+programming, it may also help with soft skills. Having knowledge of how people think can improve my understanding of
+others, allowing us to work together more efficiently and avoid certain misunderstandings. A fascinating area for
 further investigation is the discrepancies that result from thinking in the first language compared to a later acquired
 languages.
 
