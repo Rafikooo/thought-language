@@ -27,10 +27,10 @@ individuals if they are deprived of this opportunity. In class, we discussed how
 abilities during a certain period of life. However, I would need to delve deeper into how adults’ abilities for
 acquiring new knowledge and skills may be limited.
 
-There are about 7000 different languages and rich diversity of human being. As a humanity we have been able to develop
-civilisation and except some aspects as, for instance cultural one, our reality in different parts of the world looks
-similar. We developed cities, infrastructure, services etc. The question is, if the language really affect the way we
-think and how we apply our thought into surrounding?
+There are approximately 7000 different languages and a rich diversity of human being. As a species, we have been able to
+develop civilization and, except for certain aspects as, for instance, cultural one, our reality in different parts of
+the world looks similar. We have developed cities, infrastructure, services etc. The question is, does language really
+affect the way we think and how we apply our thoughts to our surroundings?
 
 The topic of the influence of language on the way of thinking is most interesting to me because of cases from everyday
 life. For example, during conversations with my foreign-speaking friends, we compare English idioms and phrases and look
