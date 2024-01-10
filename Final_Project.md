@@ -101,6 +101,8 @@ languages.
 Winawer, Witthoft, Frank, Wu, Wade, Boroditsky, (2007). *Russian blues reveal effects of language on color
 discrimination*
 
+Sloman, Fernbach, (2017). *The Knowledge Illusion*
+
 [https://pubmed.ncbi.nlm.nih.gov/17470790/](https://pubmed.ncbi.nlm.nih.gov/17470790/)
 
 Allcott, Gentzkow, (2017). *Social Media and Fake News in the 2016 Election*
