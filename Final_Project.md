@@ -51,10 +51,10 @@ does not make much sense in English, but for me, as a Polish speaker such a cons
 started noticing these language design differences. The last example is about describing time. I recently found that in
 Spanish and Catalan, people describe the current time as plural, except for the first hour, which seems very strange to
 me. In Polish, a single, specific moment in time is always singular, which in my opinion makes more sense in this
-specific case. Another example that showed the influence of language on the formulation of thoughts is a study of
-a way people with different first language categorise colors. The experiment of Boroditsky (2007) showed that Russian
-speakers could discriminate between different shades of blue faster than English speakers, because the Russian language
-has distinct terms for lighter blues ("goluboy") and darker blues ("siniy"), helping in quicker color categorization.
+specific case. Another example demonstrating the impact of language on thought formulation is a study on how individuals
+with different first language categorise colors. The experiment of Boroditsky (2007) revealed that Russian speakers
+could distinguish between various shades of blue more quickly than English speakers, due to the distinct terms in the
+Russian language for lighter blues ("goluboy") and darker blues ("siniy"), facilitating rapid color categorization.
 
 During class, we covered three main topics: languages and dialects, children's acquisition of their first language, and
 the influence of language on formulating thoughts. The main idea that comes to mind when we combine these three topics
