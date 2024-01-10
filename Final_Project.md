@@ -21,11 +21,11 @@ language and thinking the most fascinating, especially in the context of the deb
 Steven Pinker and Lera Boroditsky. In short, Pinker presents language as a tool for transmitting pre-formed thoughts,
 separate from language, while Boroditsky emphasizes that language actively shapes the way we perceive and interpret the
 world. The clash of perspectives and examples has made me more aware of the non-obvious relationships between language
-and thought, as well as cases where language is omitted in creating a thought. The second idea that took my interest is
-why language is that important for every human being, what’s the way languages are learned and especially the
-consequences for human if they deprived of this opportunity. During the classes we have spoken about language
-acquisition and what ability children have on a certain period of life, but I would need to delve deeper into topic if
-and if so in which way abilities of adult for acquire new knowledge and skills are narrowed.
+and thought, as well as cases where language is omitted in creating a thought. The second idea that caught my interest
+is importance of language for every human being, the process of language acquisition and especially the consequences for
+individuals if they are deprived of this opportunity. In class, we discussed how children acquire language and its
+abilities during a certain period of life. However, I would need to delve deeper into how adults’ abilities for
+acquiring new knowledge and skills may be limited.
 
 There are about 7000 different languages and rich diversity of human being. As a humanity we have been able to develop
 civilisation and except some aspects as, for instance cultural one, our reality in different parts of the world looks
@@ -92,7 +92,7 @@ that toddlers do. A similar case, but happend to Grzegorz Płonka, a child that 
 autism and in his fourteenth it turned out that he has hearing loss. After that he got an implant that bring him the
 hear back, he started to develop his hearing skills. It turns out that he is musically talented and after a few years of
 hard work he played a piece Sonata. This example shows how huge influence has contact with a first language from the
-moment of being a fetus. The history of Płonka was so extraordinary that a movie adapting his biography called Sonata 
+moment of being a fetus. The history of Płonka was so extraordinary that a movie adapting his biography called Sonata
 (2021) was made.
 
 A better grasp of why we use language and how it relates to our thoughts is certainly beneficial in daily life,
