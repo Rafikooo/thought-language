@@ -79,7 +79,16 @@ on preserving the purity of the French language and its reluctance to recognize 
 case relates to two parts of the main idea. First, Verlan slang provides a sense of belonging for those who speak it,
 which from an evolutionary perspective may increase our chances of survival by working with people who identify with
 them. On the other hand, the position of the Académie Française shows how language can also be subject to domination
-towards groups of people.
+towards groups of people. Another example illustrates the consequences of depriving a human being from first language
+acquisition. In the book How Languages are Learned, Lightbown, Spada (2006) researchers showed an example of child that
+was about 12 years old when found, and probably he had got no contact with aby human before. Even though several years
+were devoted to teaching him the language, the child was no longer able to develop the cognitive skills to the extent
+that toddlers do. A similar case, but  happend to Grzegorz Płonka, a child that since birth was wrongly diagnosed with autism
+and in his fourteenth it turned out that he has hearing loss. After that he got an implant that bring him the hear back,
+he started to develop his hearing skills. It turns out that he is musically talented and after a few years of hard work
+he played a piece Sonata. This example shows how huge influence has contact with a first language from the moment of
+being a fetus. The history of Płonka was so extraordinary that a movie adapting his biography called Sonata (2021) was
+made.
 
 A better grasp of why we use language and how it relates to our thoughts is certainly beneficial in daily life,
 especially in my work as a programmer where clarity is essential in speech, writing, and code production. A fascinating
@@ -103,3 +112,12 @@ Française*
 **Figures:**
 ![knowledge_transfer.png](What%20have%20I%20learned%20about%20language,%20thoughts,%20and%20%20acb743ba2c6e4f0287c7255bb9d36722/knowledge_transfer.png)
 **Figure 1.** Knowledge transfer [Author’s own]
+
+**Movie**:
+
+https://blog.medel.com/userstories/grzegorz-plonka-cochlear-implant/
+
+https://www.imdb.com/video/vi1694941721
+
+The continuation of history of changes could be found again here:
+https://github.com/Rafikooo/thought-language/commits/main/
