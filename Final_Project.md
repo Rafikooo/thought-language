@@ -27,6 +27,11 @@ consequences for human if they deprived of this opportunity. During the classes 
 acquisition and what ability children have on a certain period of life, but I would need to delve deeper into topic if
 and if so in which way abilities of adult for acquire new knowledge and skills are narrowed.
 
+There are about 7000 different languages and rich diversity of human being. As a humanity we have been able to develop
+civilisation and except some aspects as, for instance cultural one, our reality in different parts of the world looks
+similar. We developed cities, infrastructure, services etc. The question is, if the language really affect the way we
+think and how we apply our thought into surrounding?
+
 The topic of the influence of language on the way of thinking is most interesting to me because of cases from everyday
 life. For example, during conversations with my foreign-speaking friends, we compare English idioms and phrases and look
 for equivalents of certain English constructions in our native languages. Once, I unintentionally wished my French
@@ -84,12 +89,11 @@ acquisition. In the book How Languages are Learned, Lightbown, Spada (2006) rese
 was about 12 years old when found, and probably he had got no contact with aby human before. Even though several years
 were devoted to teaching him the language, the child was no longer able to develop the cognitive skills to the extent
 that toddlers do. A similar case, but happend to Grzegorz Płonka, a child that since birth was wrongly diagnosed with
-autism
-and in his fourteenth it turned out that he has hearing loss. After that he got an implant that bring him the hear back,
-he started to develop his hearing skills. It turns out that he is musically talented and after a few years of hard work
-he played a piece Sonata. This example shows how huge influence has contact with a first language from the moment of
-being a fetus. The history of Płonka was so extraordinary that a movie adapting his biography called Sonata (2021) was
-made.
+autism and in his fourteenth it turned out that he has hearing loss. After that he got an implant that bring him the
+hear back, he started to develop his hearing skills. It turns out that he is musically talented and after a few years of
+hard work he played a piece Sonata. This example shows how huge influence has contact with a first language from the
+moment of being a fetus. The history of Płonka was so extraordinary that a movie adapting his biography called Sonata 
+(2021) was made.
 
 A better grasp of why we use language and how it relates to our thoughts is certainly beneficial in daily life,
 especially in my work as a programmer where clarity is essential in speech, writing, and code production. Apart of
